@@ -1,0 +1,7 @@
+Flask
+google-genai
+python-dotenv
+faiss-cpu
+numpy
+scikit-learn
+joblib
