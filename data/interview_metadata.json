@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Java Developer",
+    "topic": "OOP",
+    "question": "What is inheritance in Java?",
+    "answer": "Inheritance allows a class to acquire fields and methods from another class using extends. It promotes code reuse and supports method overriding."
+  },
+  {
+    "role": "Java Developer",
+    "topic": "Collections",
+    "question": "What is the difference between ArrayList and LinkedList?",
+    "answer": "ArrayList uses a dynamic array and provides fast indexed access. LinkedList uses linked nodes and can be useful for insertions or removals through an existing iterator."
+  },
+  {
+    "role": "Python Developer",
+    "topic": "Data Structures",
+    "question": "What is the difference between a list and a tuple?",
+    "answer": "A list is mutable, meaning its elements can be changed. A tuple is immutable after creation."
+  },
+  {
+    "role": "Python Developer",
+    "topic": "Functions",
+    "question": "What is a Python decorator?",
+    "answer": "A decorator is a callable that wraps another function or class to extend its behavior without directly modifying its original implementation."
+  },
+  {
+    "role": "AI Software Engineer",
+    "topic": "RAG",
+    "question": "What is Retrieval-Augmented Generation?",
+    "answer": "RAG retrieves relevant information from an external knowledge source and supplies it to a language model to help generate grounded responses."
+  },
+  {
+    "role": "AI Software Engineer",
+    "topic": "Embeddings",
+    "question": "What are embeddings?",
+    "answer": "Embeddings are numerical vectors representing text or other data. Similar meanings are often represented by vectors that are close in embedding space."
+  }
+]
